@@ -1,0 +1,70 @@
+_repo: Poems-by-Currer-Ellis-and-Acton-Bell_1019
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Brontë, Charlotte
+    aliases:
+    - Charlotte Brontë
+    - Bronte, Charlotte
+    - Bell, Currer
+    birthdate: 1816
+    deathdate: 1855
+    gutenberg_agent_id: '408'
+    url: http://www.gutenberg.org/2009/agents/408
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Brontë
+  - agent_name: Brontë, Emily
+    aliases:
+    - Bell, Ellis
+    - Brontë, Emily Jane
+    - Bronte, Emily
+    birthdate: 1818
+    deathdate: 1848
+    gutenberg_agent_id: '405'
+    url: http://www.gutenberg.org/2009/agents/405
+    wikipedia: http://en.wikipedia.org/wiki/Emily_Brontë
+  - agent_name: Brontë, Anne
+    aliases:
+    - Bronte, Anne
+    - Bell, Acton
+    birthdate: 1820
+    deathdate: 1849
+    gutenberg_agent_id: '404'
+    url: http://www.gutenberg.org/2009/agents/404
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Bront%C3%AB
+description: "Poems by Currer, Ellis, and Acton Bell was a volume of poetry published\
+  \ jointly by the three Brontë sisters, Charlotte, Emily and Anne in 1846 (see 1846\
+  \ in poetry), and their first work to ever go in print. To evade contemporary prejudice\
+  \ against female writers, the Brontë sisters adopted masculine first names. All\
+  \ three retained the first letter of their first names: Charlotte became Currer\
+  \ Bell, Anne became Acton Bell, and Emily became Ellis Bell. The book was printed\
+  \ by Aylott and Jones, from London. The first edition failed to attract interest,\
+  \ with only two copies being sold. However, the sisters decided to continue writing\
+  \ for publication and began work on their first novels, which became commercial\
+  \ successes. Following the success of Charlotte's Jane Eyre in 1848, and after the\
+  \ deaths of Emily and Anne, the second edition of this book (printed in 1850 by\
+  \ Smith & Elder) fared much better, with Charlotte's additions of previously unpublished\
+  \ poetry by her two late sisters. It is believed that there are fewer than ten copies\
+  \ in existence with the Aylott and Jones' title-page.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1019'
+  wikidata: Q772985
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: Poems by Currer, Ellis, and Acton Bell
+url: http://www.gutenberg.org/ebooks/1019
+wikipedia:
+- https://fi.wikipedia.org/wiki/Poems_by_Currer,_Ellis,_and_Acton_Bell
+- https://de.wikipedia.org/wiki/Poems
+- https://simple.wikipedia.org/wiki/Poems_by_Currer,_Ellis_and_Acton_Bell
+- https://en.wikisource.org/wiki/Poems_by_Currer,_Ellis,_and_Acton_Bell
+- https://en.wikipedia.org/wiki/Poems_by_Currer,_Ellis,_and_Acton_Bell
+- https://la.wikipedia.org/wiki/Poems_by_Currer,_Ellis,_and_Acton_Bell
+- https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9A%D0%B0%D1%80%D1%80%D0%B5%D1%80%D0%B0,_%D0%AD%D0%BB%D0%BB%D0%B8%D1%81%D0%B0_%D0%B8_%D0%AD%D0%BA%D1%82%D0%BE%D0%BD%D0%B0_%D0%91%D0%B5%D0%BB%D0%BB%D0%BE%D0%B2
