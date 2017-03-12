@@ -1,5 +1,8 @@
 _repo: Poems-by-Currer-Ellis-and-Acton-Bell_1019
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Brontë, Charlotte
@@ -45,6 +48,8 @@ description: "Poems by Currer, Ellis, and Acton Bell was a volume of poetry publ
   \ Smith & Elder) fared much better, with Charlotte's additions of previously unpublished\
   \ poetry by her two late sisters. It is believed that there are fewer than ten copies\
   \ in existence with the Aylott and Jones' title-page.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1019#Poems-by-Currer-Ellis-and-Acton-Bell
 gutenberg_issued: '1997-08-01'
 gutenberg_type: Text
 identifiers:
